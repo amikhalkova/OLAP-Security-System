@@ -1,0 +1,12 @@
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\Proxy.dll
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\Proxy.pdb
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\LightOPE.dll
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\OlapCube.dll
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\Paillier.dll
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\LightOPE.pdb
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\OlapCube.pdb
+D:\C#\NIR\FirstSample\Proxy\bin\Debug\Paillier.pdb
+D:\C#\NIR\FirstSample\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+D:\C#\NIR\FirstSample\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\C#\NIR\FirstSample\Proxy\obj\Debug\Proxy.dll
+D:\C#\NIR\FirstSample\Proxy\obj\Debug\Proxy.pdb

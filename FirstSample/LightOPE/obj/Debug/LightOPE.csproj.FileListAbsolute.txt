@@ -1,0 +1,6 @@
+D:\C#\NIR\FirstSample\LightOPE\bin\Debug\LightOPE.dll
+D:\C#\NIR\FirstSample\LightOPE\bin\Debug\LightOPE.pdb
+D:\C#\NIR\FirstSample\LightOPE\obj\Debug\LightOPE.csprojResolveAssemblyReference.cache
+D:\C#\NIR\FirstSample\LightOPE\obj\Debug\LightOPE.csproj.CoreCompileInputs.cache
+D:\C#\NIR\FirstSample\LightOPE\obj\Debug\LightOPE.dll
+D:\C#\NIR\FirstSample\LightOPE\obj\Debug\LightOPE.pdb

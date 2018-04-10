@@ -1,0 +1,6 @@
+D:\C#\NIR\FirstSample\Paillier\bin\Debug\Paillier.dll
+D:\C#\NIR\FirstSample\Paillier\bin\Debug\Paillier.pdb
+D:\C#\NIR\FirstSample\Paillier\obj\Debug\Paillier.csprojResolveAssemblyReference.cache
+D:\C#\NIR\FirstSample\Paillier\obj\Debug\Paillier.csproj.CoreCompileInputs.cache
+D:\C#\NIR\FirstSample\Paillier\obj\Debug\Paillier.dll
+D:\C#\NIR\FirstSample\Paillier\obj\Debug\Paillier.pdb

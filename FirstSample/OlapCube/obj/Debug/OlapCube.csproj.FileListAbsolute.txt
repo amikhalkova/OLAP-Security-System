@@ -1,0 +1,6 @@
+D:\C#\NIR\FirstSample\OlapCube\bin\Debug\OlapCube.dll
+D:\C#\NIR\FirstSample\OlapCube\bin\Debug\OlapCube.pdb
+D:\C#\NIR\FirstSample\OlapCube\obj\Debug\OlapCube.csprojResolveAssemblyReference.cache
+D:\C#\NIR\FirstSample\OlapCube\obj\Debug\OlapCube.csproj.CoreCompileInputs.cache
+D:\C#\NIR\FirstSample\OlapCube\obj\Debug\OlapCube.dll
+D:\C#\NIR\FirstSample\OlapCube\obj\Debug\OlapCube.pdb
